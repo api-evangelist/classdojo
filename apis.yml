@@ -1,86 +1,86 @@
 aid: classdojo
 name: ClassDojo
-description: >-
-  ClassDojo is a San Francisco-based education technology company that builds
-  a classroom communication and behavior management platform connecting
-  teachers, students, and families. The core ClassDojo product enables
-  teachers to share photos, videos, and messages with parents; track
-  social-emotional learning through Points and Big Ideas; manage attendance,
-  timers, and classroom utilities via the Teacher Toolkit; and translate
-  parent-teacher messages into 190+ languages. The platform serves more than
-  50 million teachers, students, and families globally and remains free for
-  teachers. ClassDojo also offers Dojo Islands (adventure-based learning),
-  Dojo Tutor (math, reading, dyslexia, and ESL tutoring), Dojo Sparks, and
-  ClassDojo Plus as premium experiences for families. The company's revenue
-  model is consumer subscriptions and tutoring; there is no public developer
-  API, OpenAPI specification, SDK, or webhook surface, and the GitHub
-  organization at github.com/classdojo publishes only internal utilities,
-  forks, and policy documents rather than developer-facing artifacts.
+description: ClassDojo is a San Francisco-based education technology company that
+  builds a classroom communication and behavior management platform connecting teachers,
+  students, and families. The core ClassDojo product enables teachers to share photos,
+  videos, and messages with parents; track social-emotional learning through Points
+  and Big Ideas; manage attendance, timers, and classroom utilities via the Teacher
+  Toolkit; and translate parent-teacher messages into 190+ languages. The platform
+  serves more than 50 million teachers, students, and families globally and remains
+  free for teachers. ClassDojo also offers Dojo Islands (adventure-based learning),
+  Dojo Tutor (math, reading, dyslexia, and ESL tutoring), Dojo Sparks, and ClassDojo
+  Plus as premium experiences for families. The company's revenue model is consumer
+  subscriptions and tutoring; there is no public developer API, OpenAPI specification,
+  SDK, or webhook surface, and the GitHub organization at github.com/classdojo publishes
+  only internal utilities, forks, and policy documents rather than developer-facing
+  artifacts.
 type: Index
 position: Provider
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Education
-  - Classroom Communication
-  - Behavior Management
-  - K-12
-  - Parent Engagement
-  - Social Emotional Learning
-  - Teachers
-  - Schools
-  - EdTech
-  - Tutoring
-  - Family Engagement
-  - Consumer Subscription
+- Education
+- Classroom Communication
+- Behavior Management
+- K-12
+- Parent Engagement
+- Social Emotional Learning
+- Teachers
+- Schools
+- EdTech
+- Tutoring
+- Family Engagement
+- Consumer Subscription
 url: https://raw.githubusercontent.com/api-evangelist/classdojo/refs/heads/main/apis.yml
 created: '2026-05-25'
 modified: '2026-05-25'
 specificationVersion: '0.20'
 apis: []
 common:
-  - type: Website
-    url: https://www.classdojo.com
-  - type: About
-    url: https://www.classdojo.com/about
-  - type: Teachers
-    url: https://www.classdojo.com/teachers
-  - type: Parents
-    url: https://www.classdojo.com/parents
-  - type: Schools
-    url: https://www.classdojo.com/schools
-  - type: DojoIslands
-    url: https://www.classdojo.com/dojo-islands
-  - type: DojoTutor
-    url: https://www.classdojo.com/tutor
-  - type: HelpCenter
-    url: https://help.classdojo.com
-  - type: PrivacyCenter
-    url: https://www.classdojo.com/privacycenter
-  - type: ThirdPartyProviders
-    url: https://www.classdojo.com/third-party-service-providers/
-  - type: Security
-    url: https://static.classdojo.com/docs/ClassDojoAdminSecurityOverview.pdf
-  - type: EngineeringBlog
-    url: https://engineering.classdojo.com/
-  - type: BuildingBlog
-    url: http://building.classdojo.com/
-  - type: Careers
-    url: https://www.classdojo.com/jobs
-  - type: Contact
-    url: https://www.classdojo.com/contact
-  - type: GitHub
-    url: https://github.com/classdojo
-  - type: iOSApp
-    url: https://itunes.apple.com/us/app/classdojo/id552602056?mt=8
-  - type: AndroidApp
-    url: https://play.google.com/store/apps/details?id=com.classdojo.android
-  - type: Twitter
-    url: https://twitter.com/ClassDojo
-  - type: LinkedIn
-    url: https://www.linkedin.com/company/classdojo
-  - type: YouTube
-    url: https://www.youtube.com/@classdojo
+- type: Website
+  url: https://www.classdojo.com
+- type: About
+  url: https://www.classdojo.com/about
+- type: Teachers
+  url: https://www.classdojo.com/teachers
+- type: Parents
+  url: https://www.classdojo.com/parents
+- type: Schools
+  url: https://www.classdojo.com/schools
+- type: DojoIslands
+  url: https://www.classdojo.com/dojo-islands
+- type: DojoTutor
+  url: https://www.classdojo.com/tutor
+- type: HelpCenter
+  url: https://help.classdojo.com
+- type: PrivacyCenter
+  url: https://www.classdojo.com/privacycenter
+- type: ThirdPartyProviders
+  url: https://www.classdojo.com/third-party-service-providers/
+- type: Security
+  url: https://static.classdojo.com/docs/ClassDojoAdminSecurityOverview.pdf
+- type: EngineeringBlog
+  url: https://engineering.classdojo.com/
+- type: BuildingBlog
+  url: http://building.classdojo.com/
+- type: Careers
+  url: https://www.classdojo.com/jobs
+- type: Contact
+  url: https://www.classdojo.com/contact
+- type: GitHub
+  url: https://github.com/classdojo
+- type: iOSApp
+  url: https://itunes.apple.com/us/app/classdojo/id552602056?mt=8
+- type: AndroidApp
+  url: https://play.google.com/store/apps/details?id=com.classdojo.android
+- type: Twitter
+  url: https://twitter.com/ClassDojo
+- type: LinkedIn
+  url: https://www.linkedin.com/company/classdojo
+- type: YouTube
+  url: https://www.youtube.com/@classdojo
+- url: graphql/classdojo-graphql.md
+  type: GraphQL
 maintainers:
-  - FN: Kin Lane
-    email: kin@apievangelist.com
+- FN: Kin Lane
+  email: kin@apievangelist.com
