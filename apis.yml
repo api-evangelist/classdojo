@@ -37,6 +37,12 @@ modified: '2026-05-25'
 specificationVersion: '0.20'
 apis: []
 common:
+- type: TrustCenter
+  url: security/classdojo-trust-center.yml
+- type: VulnerabilityDisclosure
+  url: security/classdojo-vulnerability-disclosure.yml
+- type: DomainSecurity
+  url: security/classdojo-domain-security.yml
 - type: Website
   url: https://www.classdojo.com
 - type: About
@@ -81,6 +87,8 @@ common:
   url: https://www.youtube.com/@classdojo
 - url: graphql/classdojo-graphql.md
   type: GraphQL
+- type: Blog
+  url: https://engineering.classdojo.com/rss.xml
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
