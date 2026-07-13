@@ -1,0 +1,13 @@
+{
+  "repo": "classdojo",
+  "feeds": [
+    {
+      "source": "https://engineering.classdojo.com/",
+      "feed_url": "https://engineering.classdojo.com/rss.xml",
+      "title": "ClassDojo Engineering Blog",
+      "saved": 25
+    }
+  ],
+  "fetched": "2026-07-11T11:43:46Z",
+  "post_count": 50
+}
