@@ -107,8 +107,6 @@ common:
   url: https://www.linkedin.com/company/classdojo
 - type: YouTube
   url: https://www.youtube.com/@classdojo
-- url: graphql/classdojo-graphql.md
-  type: GraphQL
 - type: Blog
   url: https://engineering.classdojo.com/rss.xml
 maintainers:
