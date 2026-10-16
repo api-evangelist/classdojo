@@ -2,11 +2,11 @@
   "repo": "classdojo",
   "feeds": [
     {
-      "source": "https://www.youtube.com/@classdojo",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxgOUb7t6VTS0-TPSPInBpg",
+      "source": "https://engineering.classdojo.com/rss.xml",
+      "feed_url": "https://engineering.classdojo.com/rss.xml",
       "title": "",
       "saved": 0,
-      "method": "discovered"
+      "method": "feed"
     },
     {
       "source": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxgOUb7t6VTS0-TPSPInBpg",
@@ -14,17 +14,10 @@
       "title": "",
       "saved": 0,
       "method": "feed"
-    },
-    {
-      "source": "https://engineering.classdojo.com/rss.xml",
-      "feed_url": "https://engineering.classdojo.com/rss.xml",
-      "title": "",
-      "saved": 0,
-      "method": "feed"
     }
   ],
-  "fetched": "2026-10-03T12:30:02Z",
-  "post_count": 65,
+  "fetched": "2026-10-10T13:15:00Z",
+  "post_count": 68,
   "feed_nature": "undetermined",
   "feed_nature_basis": null,
   "feed_nature_note": "Whether these posts are the vendor publishing or its support community, decided on the URL path grammar of the saved posts -- not the hostname, which carries both on Khoros, and not author diversity, which flags large vendor blogs as forums. 'undetermined' means undetermined."
