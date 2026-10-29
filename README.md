@@ -1,4 +1,4 @@
-# classdojo
+# ClassDojo
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,97 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ClassDojo — classroom communication and behavior management platform
+ClassDojo is a San Francisco-based education technology company that builds a classroom communication and behavior management platform connecting teachers, students, and families. The core ClassDojo product enables teachers to share photos, videos, and messages with parents; track social-emotional learning through Points and Big Ideas; manage attendance, timers, and classroom utilities via the Teacher Toolkit; and translate parent-teacher messages into 190+ languages. The platform serves more than 50 million teachers, students, and families globally and remains free for teachers. ClassDojo also offers Dojo Islands (adventure-based learning), Dojo Tutor (math, reading, dyslexia, and ESL tutoring), Dojo Sparks, and ClassDojo Plus as premium experiences for families. The company's revenue model is consumer subscriptions and tutoring; there is no public developer API, OpenAPI specification, SDK, or webhook surface, and the GitHub organization at github.com/classdojo publishes only internal utilities, forks, and policy documents rather than developer-facing artifacts.
+
+**Areas:** Education · Classroom Communication · Behavior Management · K-12 · Parent Engagement · Social Emotional Learning · Teachers · Schools · EdTech · Tutoring · Family Engagement · Consumer Subscription
+
+## ClassDojo on APIs.io
+
+Everything profiled for ClassDojo is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/classdojo/](https://apis.io/providers/classdojo/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### GraphQL (1)
+
+GraphQL schemas.
+
+- [Moved to /providers/classdojo/](https://apis.io/graphqls/classdojo/classdojo-graphql/)
+
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [classdojo](https://apis.io/servers/classdojo/classdojo/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Classdojo Domain Security](https://apis.io/security/classdojo/classdojo-domain-security/)
+- [Classdojo Trust Center](https://apis.io/security/classdojo/classdojo-trust-center/)
+- [Classdojo Vulnerability Disclosure](https://apis.io/security/classdojo/classdojo-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.classdojo.com)
+- [Blog](https://engineering.classdojo.com/rss.xml)
+- [Security](https://static.classdojo.com/docs/ClassDojoAdminSecurityOverview.pdf)
+
+## API Evangelist rating
+
+**Kin Score 10.0** — minimal · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 51.7 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 7.9 |
+
+**Agent readiness 12.2** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | verified |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 16.7** — Education & Research
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/classdojo/](https://apis.io/providers/classdojo/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for ClassDojo: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/classdojo/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
